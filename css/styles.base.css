@@ -659,3 +659,11 @@ ul.primary li a.active:focus {
 .field-type-text-long {
   word-wrap: break-word;
 }
+
+.field-name-field-tags ul li {
+  display: inline
+}
+
+.field-name-field-tags ul li a::before {
+    content: "#";
+}
