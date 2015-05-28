@@ -6,9 +6,4 @@ padding-left: 10px; padding-right: 10px; }
 .comment-inner { border-top: 1px solid rgb(213, 213, 213); }
 h1, h2, h3 { color: #00267f; }
 
-/* Responsive Tables  for bikeshops*/
-.view-calgary-area-bicycle-shops-mechanics-and-rental-services- .view-content {
-    overflow-y: hidden;
-    -ms-overflow-style: -ms-autohiding-scrollbar;
-}
 
